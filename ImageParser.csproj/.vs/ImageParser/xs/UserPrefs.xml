@@ -1,18 +1,16 @@
 ﻿<Properties StartupConfiguration="{23AB99A4-9687-429F-91B8-F750E9A1B1E8}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ImageParser.cs">
     <Files>
-      <File FileName="ImageParserTests.cs" Line="4" Column="1" />
-      <File FileName="ImageParser.cs" Line="122" Column="2" />
+      <File FileName="ImageParserTests.cs" Line="18" Column="31" />
+      <File FileName="ImageParser.cs" Line="105" Column="12" />
       <File FileName="test2.gif" />
       <File FileName="Program.cs" Line="36" Column="18" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="ImageParser" expanded="True">
-            <Node name="ImageParser" expanded="True">
-              <Node name="Program.cs" selected="True" />
-            </Node>
+          <Node name="ImageParser" expanded="True" selected="True">
+            <Node name="ImageParser" expanded="True" />
           </Node>
         </State>
       </Pad>
@@ -20,6 +18,8 @@
         <State>
           <Value>Convert.ToInt32( "47", 16 );</Value>
           <Value>isGif</Value>
+          <Value>bytes</Value>
+          <Value>width</Value>
         </State>
       </Pad>
       <Pad Id="MonoDevelop.UnitTesting.TestPad">
@@ -28,7 +28,7 @@
             <Node name="ImageParser" expanded="True">
               <Node name="ImageParser" expanded="True">
                 <Node name="ImageParserTests" expanded="True">
-                  <Node name="BmpTest1" selected="True" />
+                  <Node name="GifTest1" selected="True" />
                 </Node>
               </Node>
             </Node>
