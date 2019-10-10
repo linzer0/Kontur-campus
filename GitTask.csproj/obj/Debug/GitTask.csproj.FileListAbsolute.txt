@@ -1,0 +1,8 @@
+/home/linzero/projects/kontur/2019/GitTask.csproj/bin/Debug/GitTask.exe
+/home/linzero/projects/kontur/2019/GitTask.csproj/bin/Debug/GitTask.pdb
+/home/linzero/projects/kontur/2019/GitTask.csproj/bin/Debug/nunit.framework.dll
+/home/linzero/projects/kontur/2019/GitTask.csproj/obj/Debug/GitTask.csprojAssemblyReference.cache
+/home/linzero/projects/kontur/2019/GitTask.csproj/obj/Debug/GitTask.csproj.CoreCompileInputs.cache
+/home/linzero/projects/kontur/2019/GitTask.csproj/obj/Debug/GitTask.csproj.CopyComplete
+/home/linzero/projects/kontur/2019/GitTask.csproj/obj/Debug/GitTask.exe
+/home/linzero/projects/kontur/2019/GitTask.csproj/obj/Debug/GitTask.pdb

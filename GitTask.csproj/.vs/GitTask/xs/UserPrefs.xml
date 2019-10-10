@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{58B9F14A-0588-4875-A045-7CBE0CAB8A7B}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Git.cs">
+    <Files>
+      <File FileName="Git.cs" Line="50" Column="2" />
+      <File FileName="GitTests.cs" Line="24" Column="30" />
+      <File FileName="Program.cs" Line="11" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="GitTask" expanded="True">
+            <Node name="GitTask" expanded="True">
+              <Node name="Git.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="GitTask" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.GitTask PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

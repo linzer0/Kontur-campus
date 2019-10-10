@@ -1,0 +1,10 @@
+/home/linzero/projects/kontur/2019/ImageParser.csproj/bin/Debug/image.png
+/home/linzero/projects/kontur/2019/ImageParser.csproj/bin/Debug/ImageParser.exe
+/home/linzero/projects/kontur/2019/ImageParser.csproj/bin/Debug/ImageParser.pdb
+/home/linzero/projects/kontur/2019/ImageParser.csproj/bin/Debug/Newtonsoft.Json.dll
+/home/linzero/projects/kontur/2019/ImageParser.csproj/bin/Debug/nunit.framework.dll
+/home/linzero/projects/kontur/2019/ImageParser.csproj/obj/Debug/ImageParser.csprojAssemblyReference.cache
+/home/linzero/projects/kontur/2019/ImageParser.csproj/obj/Debug/ImageParser.csproj.CopyComplete
+/home/linzero/projects/kontur/2019/ImageParser.csproj/obj/Debug/ImageParser.exe
+/home/linzero/projects/kontur/2019/ImageParser.csproj/obj/Debug/ImageParser.pdb
+/home/linzero/projects/kontur/2019/ImageParser.csproj/bin/Debug/Newtonsoft.Json.xml
